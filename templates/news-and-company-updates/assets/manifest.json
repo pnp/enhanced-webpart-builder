@@ -20,7 +20,6 @@
         }
     ],
     "files": {
-        "data": "data.json",
         "template": "template.json",
         "preview": "assets/preview.png",
         "thumbnail": "assets/thumbnail.png"
