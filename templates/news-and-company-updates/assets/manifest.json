@@ -1,0 +1,21 @@
+{
+    "title": "News and company updates",
+    "description": "Design for presenting news and company updates with numerous referenced articles or posts. This design is for showcasing quick view design option with the Viva Connections dashboard.",
+    "created": "2021-12-20",
+    "updated": "2021-12-20",
+    "contributors": [
+        {
+            "name": "Matt Hidinger",
+            "github": "matthidinger",
+            "avatar": "https://github.com/matthidinger.png"
+        },
+        {
+            "name": "Vesa Juvonen",
+            "github": "VesaJuvonen",
+            "avatar": "https://github.com/VesaJuvonen.png"
+        }
+    ],
+    "data": "https://github.com/pnp/enhanced-webpart-builder/blob/main/templates/news-and-company-updates/data.json",
+    "template": "https://github.com/pnp/enhanced-webpart-builder/blob/main/templates/news-and-company-updates/template.json",
+    "preview": "https://github.com/pnp/enhanced-webpart-builder/blob/main/templates/news-and-company-updates/assets/card.png"
+}
