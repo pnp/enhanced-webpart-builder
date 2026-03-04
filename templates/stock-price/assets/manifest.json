@@ -1,0 +1,29 @@
+{
+    "id": "stock-price",
+    "title": "Stock Price",
+    "description": "Simple card that leverages the Advance API Features functionality of the Card Designer to display a stock price. It uses a SharePoint list as the backend.\nThe quick view displays the company name, stock symbol, refresh date, latest price, highest price and lowest price.\nThe card is designed to display a single stock and therefore only displays the first list item (this could easily be updated to display multiple stocks).",
+    "features": [
+        "feature 1",
+        "feature 2",
+        "feature 3"
+    ],
+    "created": "2024-03-24",
+    "updated": "2024-03-24",
+    "contributors": [
+        {
+            "name": "Alex Clark",
+            "github": "alexc-msft"
+        }
+    ],
+    "files": {
+        "template": "template.json",
+        "preview": "assets/preview.png",
+        "thumbnail": "assets/stonks.png"
+    },
+    "tags": [
+        "stocks",
+        "viva",
+        "quick-view"
+    ],
+    "category": "Finance"
+}
