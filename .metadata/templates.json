@@ -1,5 +1,69 @@
 {
+    "updated": "2026-03-05",
     "templates": [
-
+        {
+            "id": "news-and-company-updates",
+            "title": "News and company updates",
+            "description": "Design for presenting news and company updates with numerous referenced articles or posts. This design is for showcasing quick view design option with the Viva Connections dashboard.",
+            "features": [
+                "Support for hero headlines with hero images",
+                "Support for related news",
+                "Can pull directly from a list or a feed",
+                "Fourth thing here"
+            ],
+            "created": "2021-12-20",
+            "updated": "2021-12-20",
+            "contributors": [
+                {
+                    "name": "Matt Hidinger",
+                    "github": "matthidinger"
+                },
+                {
+                    "name": "Vesa Juvonen",
+                    "github": "VesaJuvonen"
+                }
+            ],
+            "files": {
+                "template": "template.json",
+                "preview": "assets/preview.png",
+                "thumbnail": "assets/thumbnail.png"
+            },
+            "tags": [
+                "news",
+                "viva",
+                "quick-view"
+            ],
+            "category": "Communications"
+        },
+        {
+            "id": "stock-price",
+            "title": "Stock Price",
+            "description": "Simple card that leverages the Advance API Features functionality of the Card Designer to display a stock price. It uses a SharePoint list as the backend.\nThe quick view displays the company name, stock symbol, refresh date, latest price, highest price and lowest price.\nThe card is designed to display a single stock and therefore only displays the first list item (this could easily be updated to display multiple stocks).",
+            "features": [
+                "feature 1",
+                "feature 2",
+                "feature 3"
+            ],
+            "created": "2024-03-24",
+            "updated": "2024-03-24",
+            "contributors": [
+                {
+                    "name": "Alex Clark",
+                    "github": "alexc-msft"
+                }
+            ],
+            "files": {
+                "data": "data.json",
+                "template": "template.json",
+                "preview": "assets/preview.png",
+                "thumbnail": "assets/stonks.png"
+            },
+            "tags": [
+                "stocks",
+                "viva",
+                "quick-view"
+            ],
+            "category": "Finance"
+        }
     ]
 }
