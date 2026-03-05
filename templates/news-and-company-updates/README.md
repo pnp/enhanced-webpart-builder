@@ -10,12 +10,6 @@ Design for presenting news and company updates with numerous referenced articles
 - [Matt Hidinger](https://github.com/matthidinger)
 - [Vesa Juvonen](https://github.com/VesaJuvonen)
 
-## Version history
-
-Version|Date|Comments
--------|----|--------
-1.0|December 20, 2021|Initial release
-
 ## Features
 
 - Support for hero headlines with hero images
@@ -31,3 +25,9 @@ Version|Date|Comments
 ## Category
 
 Communications
+
+## Version history
+
+Version|Date|Comments
+-------|----|--------
+1.0|December 20, 2021|Initial release
