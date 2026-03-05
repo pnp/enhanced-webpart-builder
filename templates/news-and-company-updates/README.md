@@ -16,6 +16,13 @@ Version|Date|Comments
 -------|----|--------
 1.0|December 20, 2021|Initial release
 
+## Features
+
+- Support for hero headlines with hero images
+- Support for related news
+- Can pull dynamically from a list or a feed
+- Fourth thing here
+
 ## Tags
 
 - News

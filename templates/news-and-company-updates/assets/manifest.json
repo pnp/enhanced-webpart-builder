@@ -3,9 +3,10 @@
     "title": "News and company updates",
     "description": "Design for presenting news and company updates with numerous referenced articles or posts. This design is for showcasing quick view design option with the Viva Connections dashboard.",
     "features": [
-        "feature 1",
-        "feature 2",
-        "feature 3"
+        "Support for hero headlines with hero images",
+        "Support for related news",
+        "Can pull directly from a list or a feed",
+        "Fourth thing here"
     ],
     "created": "2021-12-20",
     "updated": "2021-12-20",
